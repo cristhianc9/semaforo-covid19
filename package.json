@@ -1,0 +1,16 @@
+{
+  "name": "semaforo-covid19",
+  "version": "1.0.0",
+  "description": "Semaforización de restricciones en la etapa de distanciamiento social por emergencia sanitaria relacionada al covid19.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "covid19",
+    "pandemia2020",
+    "sars-cov-2"
+  ],
+  "author": "Cris Cabezas",
+  "license": "MIT"
+}
